@@ -20,16 +20,18 @@ with little in the way of exploration or platforming. I find this to be a large
 misstep since those systems were crucial to the experience of Dying Light and
 to The Following DLC. 
 
-In the base game, Harran was an expansive world. And since Crane was weak and
-had no fast travel, you had to use your parkour to get around quickly and to
-avoid mobs. In the process, you'd gain XP from platforming and unlock new moves
-or improve your existing skills, making parkour and combat easier. So there was
-this great sense of progression that encouraged you to get out there and
-explore as much as you could to rack up proficiencies. There was even this
-interesting dynamic with the day/night cycles, as during nighttime, viral
-hurters would appear, chasing and two shotting you if you were caught. But to
-compensate, any experience earned was doubled, so it was a greak risk vs.
-reward incentive and created many tense chase sequences.  
+In the base game there was this great power progression that encouraged you to
+parkour across the open world to to level up your skill trees and unlock more
+moves. Outside of combat, this would open up new and quicker avenues of
+traversal, allowing you speedrun Harran more quickly.  Inside combat, you could
+use combo together parkour moves like ramming, vaulting, and sliding for crowd
+control and to opening up instant kill finishers, allowing you to quickly clear
+through the huge mobs of zeds without touching your weapons.  There was even
+this interesting dynamic with the day/night cycles, as viral hunters would
+appear at night, chasing and killing you if you got caught. But to compensate,
+any experience at night earned was doubled, so it was a greak risk vs.  reward
+incentive and created many tense chase sequences as I scrambled to find the
+nearest safehouse.  
 
 The Following built upon these systems by giving you an even larger world, and
 having you drive around in a broken-down buggy. The more you navigated, the
@@ -54,10 +56,7 @@ Now, if the combat encounters were well designed and paced appropriately, then
 I could forgive the lack of exploration, but what we got was not that. 
 
 To Hellraid's credit, initially, fighting your way through hordes of reskinned
-zombies is fun. From the allmighty dropkick to Crane's bulldozer charge,
-comboing together his offensive parkour moves for crowd control and finishers
-is still incredibly satisfying to pull off. However, the major problems with
-combat soon arise. 
+zombies is fun. However, the major problems with it soon arise. 
 
 After the first encounter, all of these fights begin occuring in square open
 arenas, generally with multiple floors of elevation and few natural
@@ -148,12 +147,13 @@ So, what are your rewards for clearing ba'al's "legendary" dungeon? A common
 weapon, 2 health potions, and a couple hundred Hellraid funbucks to help you
 grind more. 
 
-Techland, this is pathetic. I know you can do better.  The only silver lining
-free content updates in the future. And given that Techland's been regularly
-patching the game for over 5 and a half years now, I'm inclined to believe
-them. But if there's any chance of salvaging this DLC, the developers need to
-go back to the drawing board and fundamentally rethink the overall design,
-because there's barely anything worth salvaging here right now. 
+Techland, this is pathetic. I know you can do better.  The only positive aspect
+of this DLC is that free content updates have been promised in the future. And
+given that Techland's been regularly patching the game for over 5 and a half
+years now, I'm inclined to believe them. But if there's any chance of salvaging
+this DLC, the developers need to go back to the drawing board and fundamentally
+rethink the overall design, because there's barely anything worth salvaging
+here right now. 
 
 Thank you all very much for watching. I'd like to give special thanks to Cribbs
 for taking a look at my script and giving feedback on it. As for the schedule
