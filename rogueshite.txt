@@ -1,0 +1,130 @@
+Dying Light is one of my favorite titles from this console generation.  The
+strength of its gameplay loop lied in the marriage of its visceral melee combat
+and frenetic parkour, all placed neatly in a sandbox for your judo mayhem. So
+to my surpise, a DLC "expansion" came out this week, well over five years after
+release, themed around Techland's shelved dungeon crawler Hellraid . However,
+is this new content any good? Sadly not. 
+
+The gimmick here is that you've been teleported inside of an arcade machine
+possessed by demons, and you have to fight your way through various combat
+arenas to collect the three magical macguffins, all neatly framed inside of a
+roguelite game mode, where you have three attempts to clear the dungeon or lose
+everything. 
+
+At first, fighting your way through hordes of reskinned zombies is fun. From
+the allmighty dropkick to Crane's bulldozer charge, comboing together his
+offensive parkour moves for crowd control and finishers is incredibly
+satisfying to pull off.  But then the problems arise.
+
+First things off, Hellraid is way too dark. And for some reason, when the game
+takes away your equipment, it also removes your flashlight, so you can't see
+shit unless you crank up the gamma, which ruins the atmosphere. After that, you
+quickly realize this "expansion" is entirely focused on combat, with little in
+the way of exploration or platforming.
+
+Now, if the encounters were well designed and paced appropriately, then I could
+see this working, but what we got was anything but. All of these fights occur
+in square open arenas, generally with multiple floors of elevation and few
+natural chokepoints. Because there are so few background objects, you can't
+reliably use the environment for parkour like in the base game. Adding onto
+this, every...single...encounter has waves of runners and skeletal knights
+clown carring in from every nook and cranny. 
+
+On hard mode, trying to slay them in the open is borderline suicide. Skeletal
+knights love to parry your melee swings and they tank blows like raid bosses
+due in part to the garbage weapon drops. Now, I get that this encourages you to
+use your mobility to open up foes to executions, but there are several problems
+with this approach. First, it's not consistent as to what moves do and do not
+disable enemies. My ram charge seemed to make them flinch for a bit, while the
+legbreaker sometimes knocked them over. Secondly, the finisher prompt only
+seems to appear about a third of the time, so I often kicked zombies instead of
+executing them. This might be an issue with how hitboxes are handled in
+Hellraid, since this problem is rare otherwise.  Finally, you have lengthy
+setup and recovery animations for executions. And because the arenas in
+Hellraid are so cramped, expect to lose a quarter of your life whenever you
+perform a takedown, since you will get hit. 
+
+Eventually, the spam got so annoying that I resorted to exploiting Dying
+Light's combat system to make things more tolerable. Excluding runners,
+skeletons and zombies cannot climb objects nor hit you while you're on them.
+So, I always took the chance to find and perch upon a modestely sized piece of
+cover, and whack at the skeletons until they fell apart. Repeat for about
+thirty minutes, ocassionally adding in some situational runner killing. 
+
+This all ends when the game introduces its bullshit zombie mages. Individually,
+they're not that awful, as the fireballs are slow enough to dodge. However, you
+only fight a single caster once, as the game decides to spam them alongside
+skeletons, torturer minibosses, and runners for the rest of the experience. So
+now, not only do you need to deal with the frustrating fodder spam, you need to
+deal with constant spell barrages.  And even if you get into melee range with
+casters, they can still hadouken blast you in the face, taking out a quarter of
+your life. Oh, and for the cherry on top, they move erratically, so it's hard
+to reliably hit them.
+
+Ultimately, I gave up on hard mode when the game decided to respawn me at the
+first room of the dungeon after I died, but not reset the script triggers or
+keep the pathways open. As a result, I couldn't retread my steps or progress at
+all and I was completely stuck. Now, if Hellraid mixed up enemy spawns and had
+any  procedural level or tile arrangement to keep things fresh, I wouldn't mind
+giving it a go another. But between the fixed level progression and complete
+inability to save, exit, and resume your run at a later time, I had little
+desire to play on hard again. 
+
+So I decided to start on normal difficulty, which changes the entire
+experience. Instead of a frustrating cheesefest, the game becomes a
+mindnumbingly dull cakewalk, as you can button mash your way to victory.
+Enemies get stunlocked easier and take far less blows to kill, so you don't
+need to use executions to dispatch foes. Furthermore, their attacks deal far
+less damage, so it's trivial to shrug them off, especially when the game
+liberally throws healing potions at you.  And paradoxically, you get better
+rarity weapons on this difficulty than on hard, as I only got one or two rares
+on each of those runs, whereas I was drowning in purples on normal. 
+
+Really, the only parts of normal where things got remotely difficult is at the
+end of Hellraid, where Techland completely gives up on any semblance of
+encounter design. Here, you're fighting in a small circular arenas with no
+cover outside of some small banisters and seemingly unclimable bandstands.
+Dozens upon dozens of runners, skeletal knights, and torturers swarm in on your
+location.  And on top of that, there are always about half a dozen spellcasters
+spamming fireballs at you. At some point, you're going to get overwhelmed by
+the sheer volume and get pummeled to death, because you literally cannot escape
+the dogpile once caught. I've played bullet hell shooters less insane than
+this.
+
+And to top it all off, the "epic showdown" with the minotaur is just a fight
+with a reskinned demolisher from the base game. Bait his highly telegraphed
+charges, whack at him a few times, rinse and repeat.  Congratulations, you just
+beat Hellraid. 
+
+So, what are your rewards for clearing ba'al's "legendary" dungeon? A common
+weapon, 2 health potions, and a couple hundred Hellraid funbucks to help you
+grind more. 
+
+Techland, this is fucking pathetic. I know you can do better than this.  A
+beginning modder can do better. Hell, I've done better than this. I really
+don't know what's more insulting, the fact that they're charging money for this
+crap, or that it exists alongside the excellent base game and the following
+expansion.
+
+The only silver lining to this DLC is that Techland has promised free content
+updates to Hellraid. And given that they've been regularly patching the game
+for over 5 and a half years now, I'm inclined to believe them. But if there's
+any chance of salvaging this DLC, the developers need to go back to the drawing
+board and fundamentally rethink this DLC's design, because there's barely
+anything worth salvaging here right now. 
+
+Thank you all very much for watching. I'd like to give special thanks to XX and
+YY for taking a look at my script and giving feedback on it. As for the
+schedule of content, I've hit a bit of writer's block with the DOOM Eternal
+script, so it was on hold for a bit. Ditto with Borderlands 3, though I did
+make some good progress on that one. I've also got a special project in the
+works for Age of Empires 3, though I'll officially announce it when it's
+looking more complete. If you'd like to stay up to date on channel news, you
+can follow me on Twitter @SquidTheSid1 or join the Squidcord discord server.
+Finally, if you'd like to help out the channel financially in these tough
+times, consider subscribing to my Patreon page over at Patreon.com/SquidTheSid
+if you can afford to do so.
+
+As always,
+
+Stay Frosty. 
