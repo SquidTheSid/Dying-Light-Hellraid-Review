@@ -1,5 +1,5 @@
 Dying Light is one of my favorite titles from this console generation.  The
-strength of its gameplay loop lied in the marriage of its visceral melee combat
+strength of its gameplay loop lay in the marriage of its visceral melee combat
 and frenetic parkour, all placed neatly in a sandbox for your judo mayhem. So
 to my surpise, a DLC "expansion" came out this week, well over five years after
 release, themed around Techland's shelved dungeon crawler Hellraid . However,
@@ -7,7 +7,7 @@ is this new content any good? Sadly not.
 
 The gimmick here is that you've been teleported inside of an arcade machine
 possessed by demons, and you have to fight your way through various combat
-arenas to collect the three magical macguffins, all neatly framed inside of a
+arenas to collect the three magical macguffins, all neatly framed within a
 roguelite game mode, where you have three attempts to clear the dungeon or lose
 everything. 
 
@@ -18,20 +18,19 @@ anything unless you crank up the gamma, which ruins the atmosphere.
 One red flag with this "expansion" is that it's entirely focused on combat,
 with little in the way of exploration or platforming. I find this to be a large
 misstep since those systems were crucial to the experience of Dying Light and
-to The Following DLC. 
+its previous DLC: The Following. 
 
 In the base game there was this great power progression that encouraged you to
-parkour across the open world to to level up your skill trees and unlock more
+parkour across the open world to level up your skill trees and unlock more
 moves. Outside of combat, this would open up new and quicker avenues of
-traversal, allowing you speedrun Harran more quickly.  Inside combat, you could
-use combo together parkour moves like ramming, vaulting, and sliding for crowd
-control and to opening up instant kill finishers, allowing you to quickly clear
-through the huge mobs of zeds without touching your weapons.  There was even
-this interesting dynamic with the day/night cycles, as viral hunters would
-appear at night, chasing and killing you if you got caught. But to compensate,
-any experience at night earned was doubled, so it was a greak risk vs.  reward
-incentive and created many tense chase sequences as I scrambled to find the
-nearest safehouse.  
+traversal, allowing you speedrun Harran more quickly.  In combat, you could
+combo together parkour moves like ramming, vaulting, and sliding for crowd
+control and setting up instant kill finishers, allowing you to quickly clear
+through the huge mobs of zeds.  There was even this interesting dynamic with
+the day/night cycles, as viral hunter would patrol at night, chasing and
+killing you if you got caught. But to compensate, any experience at night
+earned was doubled, so it was a greak risk vs.  reward incentive and created
+many tense chase sequences as I scrambled to find the nearest safehouse.  
 
 The Following built upon these systems by giving you an even larger world, and
 having you drive around in a broken-down buggy. The more you navigated, the
@@ -40,11 +39,11 @@ buggy. Night time chases were even recreated, as virals could rapidly sprint
 after you, forcing you to drive erratically through forests and fields to break
 line of sight.
 
-So, it's unfortunate that Hellraid completely ignores these systems, removing
-the risk/reward dynamic, and leaving no sense of power or player progression.
-But given how small the dungeons are in this expansion, I don't think there was
-any meaningful way to create a new skill tree that could translate over into
-the base game or to the following. 
+So, it's unfortunate that Hellraid mostly ignores these systems and removes the
+viral risk/reward dynamic, ultimately leaving no sense of power or player
+progression.  But given how small the dungeons are in this expansion, I don't
+think there was any meaningful way to create a new skill tree that could
+translate over into the base game or to the following. 
 
 That said, I don't see why there couldn't have been parkour challenges within
 the dungeon. It'd break up the flow of combat and test the skills you've
@@ -53,17 +52,14 @@ players, so that Techland could've created platforming gauntlets that tested
 every parkour skill you unlocked. 
 
 Now, if the combat encounters were well designed and paced appropriately, then
-I could forgive the lack of exploration, but what we got was not that. 
+I could forgive the lack of exploration, but what we got does not nearly
+compensate.  
 
-To Hellraid's credit, initially, fighting your way through hordes of reskinned
-zombies is fun. However, the major problems with it soon arise. 
-
-After the first encounter, all of these fights begin occuring in square open
-arenas, generally with multiple floors of elevation and few natural
-chokepoints. Because there are so few background objects, you can't reliably
-use the environment for parkour like in the base game. Adding onto this,
-every...single...fight has waves of runners and skeletal knights clown
-carring in from every nook and cranny. 
+Most of Hellraid's fights occur in square open arenas, generally with multiple
+floors of elevation and few natural chokepoints. Because there are so few
+background objects, you can't reliably use the environment for parkour like in
+the base game. Adding onto this, every...single...fight has waves of runners
+and skeletal knights clown carring in from every nook and cranny. 
 
 On hard mode, trying to slay them in the open is borderline suicide. Skeletal
 knights love to parry your melee swings and they tank blows like raid bosses
@@ -79,8 +75,8 @@ setup and recovery animations for executions. And because the arenas in
 Hellraid are so cramped, expect to lose a quarter of your life whenever you
 perform a takedown, since you will get hit. 
 
-Eventually, the spam got so annoying that I resorted to exploiting Dying
-Light's combat system to make things more tolerable. Excluding runners,
+Eventually, the spam got so annoying that I resorted to exploiting quirks of
+Dying Light's combat system to make things more tolerable. Excluding runners,
 skeletons and zombies cannot climb objects nor hit you while you're on them.
 So, I always took the chance to find and perch upon a modestely sized piece of
 cover, and whack at skeletons until they fell apart. Repeat for about thirty
