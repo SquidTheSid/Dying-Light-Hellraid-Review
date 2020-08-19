@@ -1,15 +1,16 @@
-Dying Light is one of my favorite titles from this console generation.  The
+Dying Light is one of my favorite titles from this console generation, with me
+beating it twice on normal and hard, and grinding legend ranks for a bit.  The
 strength of its gameplay loop lay in the marriage of its visceral melee combat
 and frenetic parkour, all placed neatly in a sandbox for your judo mayhem. So
 to my surpise, a DLC "expansion" came out this week, well over five years after
-release, themed around Techland's shelved dungeon crawler Hellraid . However,
-is this new content any good? Sadly not. 
+release, themed and named after Techland's shelved dungeon crawler Hellraid .
+However, is this new content any good? Sadly not. 
 
 The gimmick here is that you've been teleported inside of an arcade machine
 possessed by demons, and you have to fight your way through various combat
 arenas to collect the three magical macguffins, all neatly framed within a
-roguelite game mode, where you have three attempts to clear the dungeon or lose
-everything. 
+separate roguelite game mode, where you have three attempts to clear the
+dungeon or lose everything. 
 
 First things off, Hellraid is way too dark. And for some reason, when the game
 takes away your equipment, it also removes your flashlight, so you can't see
@@ -20,40 +21,39 @@ with little in the way of exploration or platforming. I find this to be a large
 misstep since those systems were crucial to the experience of Dying Light and
 its previous DLC: The Following. 
 
-In the base game there was this great power progression that encouraged you to
-parkour across the open world to level up your skill trees and unlock more
-moves. Outside of combat, this would open up new and quicker avenues of
-traversal, allowing you speedrun Harran more quickly.  In combat, you could
-combo together parkour moves like ramming, vaulting, and sliding for crowd
-control and setting up instant kill finishers, allowing you to quickly clear
-through the huge mobs of zeds.  There was even this interesting dynamic with
-the day/night cycles, as viral hunter would patrol at night, chasing and
-killing you if you got caught. But to compensate, any experience at night
-earned was doubled, so it was a greak risk vs.  reward incentive and created
-many tense chase sequences as I scrambled to find the nearest safehouse.  
+The base game had great power progression that encouraged you to parkour across
+the open world to level your skill trees and unlock more moves. Outside of
+combat, these abilities would open up new and quicker avenues of traversal,
+allowing you speedrun Harran more quickly.  In combat, you could combo together
+your parkour moves like ramming, vaulting, and sliding for crowd control and
+setting up finishers, allowing you to quickly clear through the huge mobs of
+zeds.  There was even an interesting dynamic with the day/night cycles, as
+viral hunters would patrol at night, chasing and killing you if you got caught.
+But to compensate, any experience at night earned was doubled, so it was a
+greak risk vs.  reward incentive and created many tense chase sequences as I
+scrambled to find the nearest safehouse.  
 
 The Following built upon these systems by giving you an even larger world, and
 having you drive around in a broken-down buggy. The more you navigated, the
-better your driving skills got, and better parts could be equipped on the
-buggy. Night time chases were even recreated, as virals could rapidly sprint
-after you, forcing you to drive erratically through forests and fields to break
-line of sight.
+better your driving skills got, and the better parts the buggy got. Night time
+chases were even recreated, as viral hunters could rapidly sprint after you and
+jump on your buggy's hood, forcing you to drive erratically through forests and
+fields to break line of sight and shake them off.
 
 So, it's unfortunate that Hellraid mostly ignores these systems and removes the
-viral risk/reward dynamic, ultimately leaving no sense of power or player
-progression.  But given how small the dungeons are in this expansion, I don't
-think there was any meaningful way to create a new skill tree that could
+nighttime risk/reward dynamic, ultimately leaving no sense of power or player
+progression here.  But given how small the dungeons are in this expansion, I
+don't think there was any meaningful way to create a new skill tree that could
 translate over into the base game or to the following. 
 
 That said, I don't see why there couldn't have been parkour challenges within
 the dungeon. It'd break up the flow of combat and test the skills you've
 learned from the base game. Hellraid could've even been gated off to high level
-players, so that Techland could've created platforming gauntlets that tested
-every parkour skill you unlocked. 
+players, so that there'd be platforming gauntlets that tested every parkour
+skill you unlocked. 
 
 Now, if the combat encounters were well designed and paced appropriately, then
-I could forgive the lack of exploration, but what we got does not nearly
-compensate.  
+I could forgive the lack of exploration, but what we got is anything but.  
 
 Most of Hellraid's fights occur in square open arenas, generally with multiple
 floors of elevation and few natural chokepoints. Because there are so few
@@ -63,37 +63,36 @@ and skeletal knights clown carring in from every nook and cranny.
 
 On hard mode, trying to slay them in the open is borderline suicide. Skeletal
 knights love to parry your melee swings and they tank blows like raid bosses
-due to the garbage weapon drops. Now, I get that this encourages you to
-use your mobility to open up foes to executions, but there are several problems
-with this approach. First, it's not consistent as to what moves do and do not
-disable enemies. My ram charge seemed to make them flinch for a bit, while the
-legbreaker sometimes knocked them over. Secondly, the finisher prompt only
-seems to appear about a third of the time, so I often kicked zombies instead of
-executing them. This might be an issue with how hitboxes are handled in
-Hellraid, since this problem is rare otherwise.  Finally, you have lengthy
-setup and recovery animations for executions. And because the arenas in
-Hellraid are so cramped, expect to lose a quarter of your life whenever you
-perform a takedown, since you will get hit. 
+due to the garbage weapon drops. Now, I get that this encourages you to use
+your mobility to open up foes to executions, but there are several problems
+with this approach. First, it's not consistent as to what combat moves do and
+do not disable enemies. My ram charge seemed to make them flinch for a bit,
+while the legbreaker sometimes knocked them over. Secondly, the finisher prompt
+only seems to appear about a third of the time, so I often kicked zombies
+instead of executing them. Finally, you have lengthy setup and recovery
+animations for executions. And because the arenas in Hellraid are so cramped,
+expect to lose a quarter of your life whenever you perform a takedown, since
+you will get hit. 
 
 Eventually, the spam got so annoying that I resorted to exploiting quirks of
-Dying Light's combat system to make things more tolerable. Excluding runners,
-skeletons and zombies cannot climb objects nor hit you while you're on them.
-So, I always took the chance to find and perch upon a modestely sized piece of
-cover, and whack at skeletons until they fell apart. Repeat for about thirty
-minutes, ocassionally adding in some situational runner killing. I think enemy
-spawning could've been changed in two ways for the better. First, it could be
-adjusted to be gradual, rather than in waves. Therefore, you wouldn't be
-overwhelmed so long as you killed enemies quickly, promoting player skill.
-There also could've been environmental traps like ballistas or spike walls that
-you could've used to clear out multiple mobs simultaneously, to discourage
-camping and promote situational awareness. Though I think there would need to
-be a small time window before enemies spawned in so you could find these traps.
+Dying Light's combat system. Excluding runners, skeletons and zombies cannot
+climb objects nor hit you while you're on them.  So, I always took the chance
+to find and perch upon a modestely sized piece of cover, and whack at skeletons
+until they fell apart. Repeat for about thirty minutes, ocassionally adding in
+some situational runner killing. I think enemy spawning could've been changed
+in two ways for the better. First, it could be adjusted to be gradual, rather
+than in waves. Therefore, you wouldn't be overwhelmed so long as you killed
+enemies quickly, promoting player skill.  There also could've been
+environmental traps like ballistas or spike walls that you could've used to
+clear out multiple mobs simultaneously, to discourage camping and promote
+situational awareness. Though I think there would need to be a small time
+window before enemies spawned in so you could find these traps.
 
 Another option would be to keep the spam, but to turn the room into a chase
 sequence rather than an arena. Therefore, you wouldn't be expected to kill
 everyone, but to use your parkour skills to get away to the next room before
 getting overwhelmed. This would, in part, recreate some of the tension and fear
-from the viral chases in the base game.
+from the viral hunter chases in the base game.
 
 Now, let's talk about mages, the worst enemy type introduced in Hellraid.
 Individually, they're not that awful, as the fireballs are slow enough to
@@ -103,64 +102,65 @@ rest of the experience. So now, not only do you need to deal with the
 frustrating fodder spam, you need to deal with constant spell barrages.  And
 even if you get into melee range with casters, they can still hadouken blast
 you in the face, taking out a quarter of your life. Oh, and for the cherry on
-top, they move erratically, so it's hard to reliably hit them.
+top, they move erratically, so it's hard to reliably hit them at range.
 
 Ultimately, I gave up on hard mode when the game decided to respawn me at the
 first room of the dungeon after I died, but not reset the script triggers or
 keep the pathways open. As a result, I couldn't retread my steps or progress at
 all and I was completely stuck. Now, if Hellraid mixed up enemy spawns and had
 any  procedural level or tile arrangement to keep things fresh, I wouldn't mind
-giving it a go another. But between the fixed level progression and complete
-inability to save, exit, and resume your run at a later time, I had little
+giving it another go. But between the fixed level progression and complete
+inability to save, exit, and resume your run at a later date, I had little
 patience to play on hard again. 
 
 So I decided to start on normal difficulty, which changes the entire
 experience. Instead of a frustrating cheesefest, the game becomes a
 mindnumbingly dull cakewalk, as you can button mash your way to victory.
-Enemies get stunlocked easier and take far less blows to kill, so you don't
-need to use your mobility or executions to dispatch foes. Furthermore, you take
-far less damage, so it's trivial to shrug off most foes, especially when the
-game liberally throws healing potions at you.  And paradoxically, you get
-better rarity weapons on this difficulty than on hard, as I only got one or two
-rares on each of those runs, whereas I was drowning in purples on normal. 
+Enemies seem to get stunlocked easier and take far less blows to kill, so you
+don't need to use your mobility or executions to dispatch foes. Furthermore,
+you take far less damage, so it's trivial to shrug off most attacks, especially
+when the game liberally throws healing potions at you.  And paradoxically, you
+get better rarity weapons on this difficulty than on hard, as I only got one or
+two rares on each of those runs, whereas I was drowning in purples on normal. 
 
 Really, the only parts of normal where things got remotely difficult is at the
 end of Hellraid, where any semblance of encounter design is thrown out of the
-window. Here, you're fighting in a small circular arenas with no cover outside
+window. Here, you're fighting in a small circular arena with no cover outside
 of some small banisters and seemingly unclimable bandstands.  Dozens upon
 dozens of runners, skeletal knights, and torturers swarm in on your location.
 And on top of that, there are always about half a dozen spellcasters spamming
 fireballs at you. At some point, you're going to get overwhelmed by the sheer
-volume and get stunlocked. I've played bullet hell shooters less insane than
-this.
+volume and get stunlocked to death. I've played bullet hell shooters less
+insane than this.
 
-And to top it all off, the "epic showdown" with the minotaur is just a fight
-with a reskinned demolisher from the base game. Bait his highly telegraphed
-charges, whack at him a few times, rinse and repeat.  Congratulations, you just
-beat Hellraid. 
+And to top it all off, the "epic showdown" with the minotaur boss is just a
+fight with a reskinned demolisher enemy from the base game. Bait his highly
+telegraphed charges, dodge, whack at him a few times, rinse and repeat.
+Congratulations, you just beat Hellraid. 
 
 So, what are your rewards for clearing ba'al's "legendary" dungeon? A common
 weapon, 2 health potions, and a couple hundred Hellraid funbucks to help you
 grind more. 
 
 Techland, this is pathetic. I know you can do better.  The only positive aspect
-of this DLC is that free content updates have been promised in the future. And
-given that Techland's been regularly patching the game for over 5 and a half
-years now, I'm inclined to believe them. But if there's any chance of salvaging
-this DLC, the developers need to go back to the drawing board and fundamentally
-rethink the overall design, because there's barely anything worth salvaging
-here right now. 
+of this DLC right now is that free content updates have been promised in the
+future. And given that Techland's been regularly patching the game for over 5
+and a half years now, I'm inclined to believe them. But if there's any chance
+of salvaging this DLC, the developers need to go back to the drawing board and
+fundamentally rethink the expansion's overall design, because there's barely
+anything worth salvaging here. 
 
 Thank you all very much for watching. I'd like to give special thanks to Cribbs
-for taking a look at my script and giving feedback on it. As for the schedule
-of content, I've hit a bit of writer's block with the DOOM Eternal script, so
-it was on hold for a bit. Ditto with Borderlands 3, though I did make some good
-progress on that one. I've also got a special project in the works for Age of
-Empires 3, though I'll officially announce it when it's looking more complete.
-If you'd like to stay up to date on channel news, you can follow me on Twitter
-@SquidTheSid1 or join the Squidcord discord server.  Finally, if you'd like to
-help out the channel financially in these tough times, consider subscribing to
-my Patreon page over at Patreon.com/SquidTheSid if you can afford to do so.
+and Moontouched Moogle for taking a look at my script and giving feedback on
+it. As for the schedule of content, I've hit a bit of writer's block with the
+DOOM Eternal script, so it was on hold for a bit. Ditto with Borderlands 3,
+though I did make some good progress on that one. I've also got a special
+project in the works for Age of Empires 3, though I'll officially announce it
+when it's looking more complete.  If you'd like to stay up to date on channel
+news, you can follow me on Twitter @SquidTheSid1 or join the Squidcord discord
+server.  Finally, if you'd like to help out the channel financially in these
+tough times and can afford to do so, consider subscribing to my Patreon page over at
+Patreon.com/SquidTheSid.
 
 As always,
 
